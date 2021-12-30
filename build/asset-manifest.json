@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7edefd90.chunk.css",
+    "main.js": "/static/js/main.aa222fdc.chunk.js",
+    "main.js.map": "/static/js/main.aa222fdc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2068022a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2068022a.js.map",
+    "static/js/2.b9409389.chunk.js": "/static/js/2.b9409389.chunk.js",
+    "static/js/2.b9409389.chunk.js.map": "/static/js/2.b9409389.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7edefd90.chunk.css.map": "/static/css/main.7edefd90.chunk.css.map",
+    "static/js/2.b9409389.chunk.js.LICENSE.txt": "/static/js/2.b9409389.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/cartoon_girl.7cfcf2ed.jpg",
+    "static/media/reenuPhoto.880b854e.jpg": "/static/media/reenuPhoto.880b854e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2068022a.js",
+    "static/js/2.b9409389.chunk.js",
+    "static/css/main.7edefd90.chunk.css",
+    "static/js/main.aa222fdc.chunk.js"
+  ]
+}
